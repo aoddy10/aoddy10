@@ -37,6 +37,8 @@ With over **7 years of professional experience**, I’ve built software solution
 | [**AI SaaS Platform**](https://portfolio.idevtifytech.com) | Web app to generate content (text, image, music) with OpenAI API + LangChain + Stripe billing | Next.js, Prisma, Clerk.dev |
 | **URGENCE – AI Accident Detection** | Real-time detection using TensorFlow + Raspberry Pi + Flutter app | Python, OpenCV, Firebase |
 | **IoT Air Quality System** | Arduino + Raspberry Pi + Node-RED dashboard to monitor and alert air quality | C++, Node-RED, Linux |
+| [**KiwiExplorer Web App**](https://github.com/aoddy10/yoobee-mse800-kiwiexplorer) | A modern web platform for exploring New Zealand destinations | React.js, Tailwind CSS, Django, Postgres, Docker |
+
 
 ---
 
