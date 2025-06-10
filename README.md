@@ -14,7 +14,7 @@ With over **7 years of professional experience**, I’ve built software solution
 - 🎯 Interested in: AI Engineering, LLM Applications, Full Stack Web Platforms
 - 🔧 Tech Stack: Python, JavaScript, React, Next.js, Django, FastAPI, TensorFlow, OpenAI, Prisma, PostgreSQL
 - 🌐 Portfolio: [https://portfolio.idevtifytech.com](https://portfolio.idevtifytech.com)
-- 📄 Resume: [Download PDF](https://portfolio.idevtifytech.com/Anirut_Puangkingkaew_Resume.pdf)
+- 📄 Resume: [Download PDF](https://portfolio.idevtifytech.com/Anirut_Puangkingkaew_CV_update.pdf)
 - 📫 Reach me: **anirut.puangkingkaew@gmail.com**
 
 ---
